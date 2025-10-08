@@ -1,7 +1,8 @@
-# cv-satu-halaman
+# Single Page CV - YutaDev
 
-Membuat Project CV satu halaman untuk belajar FrontEnd.
+This is a simple one-page CV project built with HTML and CSS  
+based on the [roadmap.sh Single Page CV Project](https://roadmap.sh/projects/single-page-cv).
 
-## 🔗 Live Preview
-[Lihat hasil project di sini](https://rulzzbot.github.io/cv-satu-halaman/)\
-https://github.com/RulzzBot/cv-satu-halaman
+## 🌐 Project URL
+https://rulzzbot.github.io/cv-satu-halaman/
+
